@@ -28,7 +28,7 @@ Proyecto simulado para demostrar competencias en analítica de salud, gestión d
 - Los pacientes con incumplimiento SLA reportan NPS Z puntos menos.
 
 ## Cómo reproducir
-1. Abrir `notebooks/analisis_portafolio.ipynb` en Google Colab.
+1. Abrir `notebooks/analisis_portafolio_limpio (1).ipynb` en Google Colab.
 2. Subir los CSVs de `data/raw/` o ejecutar el script generador.
 3. Correr todas las celdas.
 
